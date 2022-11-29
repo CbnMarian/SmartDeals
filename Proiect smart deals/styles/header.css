@@ -1,0 +1,21 @@
+.bara-contact{
+  background-color: black;
+  position: static;
+  margin-top: -16px;
+  margin-left: -15px;
+  margin-right: -6px;
+  height: 50px;
+}
+.contact-text, .lista-contact{
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: none
+}
+
+.contact-text{
+  display: flex;
+  align-items: center;
+}
